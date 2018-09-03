@@ -21,4 +21,4 @@ Ruby, Sinatra, rspec, Heroku
 * Type the following slash command `/predictions tarot`
 * Enjoy your Tarot card reading!
 
-![](Kapture 2018-09-03 at 11.57.24.gif)
+![Alt Text](Kapture 2018-09-03 at 11.57.24.gif)
