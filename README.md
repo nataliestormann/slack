@@ -15,7 +15,7 @@ Ruby, Sinatra, rspec, Heroku
 **Installation**
 
 * Accept invite to `https://test-it-out-workspace.slack.com` 
-* Clone repo: https://github.com/nataliestormann/slack-synergy/
+* Clone repo: https://github.com/nataliestormann/slack
 * Run `slack.rb`
 * Navigate to the Slack channel `# test-channel`
 * Type the following slash command `/predictions tarot`
